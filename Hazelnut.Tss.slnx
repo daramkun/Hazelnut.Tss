@@ -1,0 +1,9 @@
+﻿<Solution>
+  <Folder Name="/Files/">
+    <File Path=".gitignore" />
+    <File Path="README.md" />
+    <File Path="LICENSE" />
+  </Folder>
+  <Project Path="Hazelnut.Tss.Test\Hazelnut.Tss.Test.csproj" Type="Classic C#" />
+  <Project Path="Hazelnut.Tss\Hazelnut.Tss.csproj" Type="Classic C#" />
+</Solution>
